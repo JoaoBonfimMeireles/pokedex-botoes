@@ -1,0 +1,17 @@
+.button {
+  width: 100%;
+  padding: 20px 0px;
+  background-color: white;
+  border-bottom: 1px solid gray;
+  color: black;
+  background-color: rgb(150, 213, 250);
+}
+
+header h1 {
+  margin-bottom: 21px;
+  padding: 0px 20px;
+}
+
+header p {
+  padding: 0px 20px;
+}
