@@ -1,0 +1,63 @@
+.box-pokedex-text {
+  width: 17.125rem;
+  display: flex;
+  align-items: left;
+  margin: 0 auto;
+  flex-direction: column;
+  background: rgb(56, 56, 56);
+  padding: 0 1rem 0 1rem;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.box-pokedex-text span {
+  margin: 1rem 0px 0.35em;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 1.334;
+  color: #fff;
+}
+
+.box-pokedex-text p {
+  margin: 0px;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 0.875rem;
+  line-height: 1.43;
+  color: rgba(167, 167, 167, 0.7);
+}
+
+.pokedex-buttons {
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+}
+
+.pokedex-buttons-all {
+  display: flex;
+  justify-content: space-around;
+  width: 15.125rem;
+  background: rgb(56, 56, 56);
+  padding: 1rem 0 0.5rem;
+}
+
+.pokedex-buttons-all button{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 500;
+  min-width: 4rem;
+  font-size: 0.8125rem;
+  color: rgb(144, 202, 249);
+  line-height: 1.75;
+  padding: 4px 5px;
+  border-style: none;
+  background: none;
+  border-radius: 5px;
+  transition: 1500ms cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.pokedex-buttons-all button:hover{
+  background: rgba(196, 195, 195, 0.425);
+}
