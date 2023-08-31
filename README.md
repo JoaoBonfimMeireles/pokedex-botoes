@@ -10,16 +10,10 @@
 ## ⚙️ Como rodar o projeto:
 
 - Instalar o Node.js
-- Clonar o projeto usando SSH e é necessário executar o comando: git@github.com:JoaoBonfimMeireles/pokedex-com-botoes.git
+- Clonar o projeto usando SSH e é necessário executar o comando: git@github.com:JoaoBonfimMeireles/pokedex-botoes.git
 - Instalar as dependências: npm install
 
 Feito isso, basta usar o comando npm start e será aberta uma página web com o projeto.
-
-## ⚠️ Importe:
-
-- Para usar o notão
-
-
 
 ## 🚀 Tecnologias:
 
